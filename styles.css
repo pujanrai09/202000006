@@ -74,6 +74,10 @@ a:hover {
 
 }
 
+.mypic {
+  width:15%;
+}
+
 .top-cloud {
   position:absolute;
   right:330px;
