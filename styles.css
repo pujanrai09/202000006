@@ -80,14 +80,14 @@ a:hover {
 
 .top-cloud {
   position:absolute;
-  right:330px;
-  top:90px;
+  right:300px;
+  top:50px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left:350px;
-  bottom:630px;
+  left:300px;
+  bottom:30px;
 }
 
 .guitar {
